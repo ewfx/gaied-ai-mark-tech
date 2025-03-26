@@ -7,13 +7,18 @@
 
     ◦ AI-Powered Loan Servicing Request Classification
     
+    
     ◦ Confidence Scoring for AI Predictions
+    
     
     ◦ Duplicate Email Detection
     
+    
     ◦ Context-Based Data Extraction
     
+    
     ◦ Handling Multi-Request with Primary Intent Detection
+    
     
     ◦ Priority-Based Extraction
 
@@ -31,7 +36,9 @@ Key Features and Functionalities of the Project
 
 1.AI-Powered Loan Servicing Request and Sub request Classification
 ●Reads emails (EML format) and extracts both the email body and attachments (PDF, DOCX) and classifies loan servicing requests. Tools supports following file format as input: .eml, pdf and .docx
+
 ●Utilizes Google Gemini (LLM) to determine the loan servicing request type and sub-request type.
+
 ●Identify the sender intent for email sending.
 
 ●Defines several loan servicing types such as:
@@ -50,13 +57,20 @@ Key Features and Functionalities of the Project
 
 Configuration Table for Request type and sub request types:
 Request Type	Sub Request Type
- Adjustment	 
- AU Transfer	 
- Closing Notes 	 Reallocation Fees,Amendment Fees,Reallocation Principal
- Commitment Change 	 Cashless Roll, Decrease,Increase
- Fee Payment	 Ongoing Fee, Letter of Credit Fee
- Money Movement Inbound 	 Principal, Interest,Principal and Interest,Principal and Interest and Fees
- Money Movement Outbound	 Time bound,Foreign Currency
+
+ Adjustment:	 
+ 
+ AU Transfer:	 
+ 
+ Closing Notes: 	 Reallocation Fees,Amendment Fees,Reallocation Principal
+ 
+ Commitment Change: 	 Cashless Roll, Decrease,Increase
+ 
+ Fee Payment:	 Ongoing Fee, Letter of Credit Fee
+ 
+ Money Movement Inbound: 	 Principal, Interest,Principal and Interest,Principal and Interest and Fees
+ 
+ Money Movement Outbound:	 Time bound,Foreign Currency
 
 
 
