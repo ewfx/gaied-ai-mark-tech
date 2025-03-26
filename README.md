@@ -124,7 +124,7 @@ Request Type	Sub Request Type
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-We are problem solver. We find this problemstatment very intresting. This solution will really help bank.
+We are problem solver. We find this problem statment very intresting. This solution will really help bank.
 ## ⚙️ What It Does
 Key features and functionalities of your project.
 Key Features and Functionalities of the Project
