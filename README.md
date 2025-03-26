@@ -91,7 +91,7 @@ Request Type	Sub Request Type
 ●It supports extracting value from email content or attachments. Configuration is provided to extract value at fields level through email content or Attachments.
 
 ## 🎥 Demo
-🔗 [Live Demo](#)  Demo Videois uploaded in Artitifacts/Demo/ 
+🔗 [Live Demo](#)  Demo Video is uploaded in folder in Repo: Artitifacts/Demo/ 
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
