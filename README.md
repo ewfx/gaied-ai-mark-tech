@@ -2,6 +2,7 @@
 
 ## 📌 Table of Contents
 • Project Overview
+
 • Key Features and Functionalities
 
     ◦ AI-Powered Loan Servicing Request Classification
