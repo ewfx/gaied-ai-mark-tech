@@ -14,6 +14,7 @@
     ◦ Context-Based Data Extraction
     
     ◦ Handling Multi-Request with Primary Intent Detection
+    
     ◦ Priority-Based Extraction
 
 • How to Run the Project
