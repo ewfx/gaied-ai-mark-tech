@@ -12,6 +12,7 @@
     ◦ Duplicate Email Detection
     
     ◦ Context-Based Data Extraction
+    
     ◦ Handling Multi-Request with Primary Intent Detection
     ◦ Priority-Based Extraction
 
