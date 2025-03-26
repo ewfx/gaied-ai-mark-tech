@@ -164,19 +164,16 @@ Getting output in required format was challenging and integrating API with LLM M
 
 ## 🏃 How to Run
 1. Clone the repository  
-   ```sh
   Download or clone the project to your local system using:
-
-git clone https://github.com/ewfx/gaied-ai-mark-tech cd gaied-ai-mark-tech
-   ```
-2. Install dependencies  
-   ```sh
-  Run the following command to install all necessary Python packages: pip install openai google-generativeai flask python-docx pymupdf
-   ```
+  git clone https://github.com/ewfx/gaied-ai-mark-tech cd gaied-ai-mark-tech
+  d gaied-ai-mark-tech
+  
+3. Install dependencies  
+   pip install openai google-generativeai flask python-docx pymupdf
+  
 3. Run the project  
-   ```sh
   python toolcode.py
-   ```
+   
 
 ## 🏗️ Tech Stack
 - 🔹 Frontend: Python
