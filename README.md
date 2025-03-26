@@ -35,6 +35,7 @@ Git Repo: https://github.com/ewfx/gaied-ai-mark-tech/
 Key Features and Functionalities of the Project
 
 1.AI-Powered Loan Servicing Request and Sub request Classification
+
 ●Reads emails (EML format) and extracts both the email body and attachments (PDF, DOCX) and classifies loan servicing requests. Tools supports following file format as input: .eml, pdf and .docx
 
 ●Utilizes Google Gemini (LLM) to determine the loan servicing request type and sub-request type.
