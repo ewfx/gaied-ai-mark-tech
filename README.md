@@ -179,7 +179,7 @@ Getting output in required format was challenging and integrating API with LLM M
 - 🔹 Frontend: Python
 - 🔹 Backend: API
 - 🔹 Database:
-- 🔹 Other: OpenAI API
+- 🔹 Other: OpenAI API, Google Gemini LLM Model free version, Flusk server, Postman free desktop App for API testing
 
 ## 👥 Team
 - **Harshit Gupta** - [GitHub](https://github.com/H4R5H1T-007/) | [LinkedIn](https://www.linkedin.com/in/harshit-gupta-8a7b621a4/)
