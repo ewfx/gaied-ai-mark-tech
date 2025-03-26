@@ -13,6 +13,7 @@
     ◦ Priority-Based Extraction
 
 • How to Run the Project
+
 • Testing and Results
 • Demo
 
