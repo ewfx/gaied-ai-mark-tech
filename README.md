@@ -92,8 +92,10 @@ Request Type	Sub Request Type
 
 ## 🎥 Demo
 🔗 [Live Demo](#)  Demo Video is uploaded in folder in Repo: Artitifacts/Demo/ 
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
+
+📹 [Video Demo](#) Demo Video is uploaded in folder in Repo: Artitifacts/Demo/  
+
+🖼️ Screenshots: Screnshots is attached in document in Repo Folder: Artitifacts/arch
 
 ![Screenshot 1](link-to-image)
 
