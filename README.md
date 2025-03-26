@@ -57,6 +57,7 @@ Key Features and Functionalities of the Project
 ○Money Movement (Inbound/Outbound)
 
 Configuration Table for Request type and sub request types:
+
 Request Type	Sub Request Type
 
  Adjustment:	 
