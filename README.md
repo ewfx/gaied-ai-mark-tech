@@ -160,7 +160,7 @@ Request Type	Sub Request Type
 We have used python code, flusk server, Google gemini LLM model and various free liberarey to build this project.
 
 ## 🚧 Challenges We Faced
-Getting output in required format was challenging and integrating API with LLM Model was challenging and almost 6 requirments are asked in hackthon use case so building all in required time frame was challenging. 
+Getting output in required format was challenging and integrating API with LLM Model was challenging and almost 6 requirments are asked in hackathon use case so building all in required time frame was challenging. 
 
 ## 🏃 How to Run
 1. Clone the repository  
